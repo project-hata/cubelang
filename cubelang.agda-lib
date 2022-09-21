@@ -1,0 +1,5 @@
+name: cubelang
+depend: cubical, hata
+include: .
+  Archive
+flags: --erased-cubical --allow-unsolved-metas --no-import-sorts -W noNoEquivWhenSplitting --allow-exec
