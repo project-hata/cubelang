@@ -1,0 +1,4 @@
+name: CubeLang
+depend: cubical, hata
+include: .
+flags: --erased-cubical --allow-unsolved-metas -WnoUnsupportedIndexedMatch --no-import-sorts --allow-exec
